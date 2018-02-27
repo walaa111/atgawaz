@@ -27,9 +27,9 @@ body {
     -webkit-user-select: none;
     background-color: #6e614f;
     background-image: linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
-    background-image: -webkit-linear-gradient(top, #A7A7A7 0%, #847451 51%);
+    background-image: -webkit-linear-gradient(top, #A7A7A7 0%, #f1f1f1 51%);
     background-image: -ms-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
-    background-image: -webkit-gradient( linear, left top, left bottom, color-stop(0, #726552), color-stop(0.51, #5f5444) );
+    background-image: -webkit-gradient( linear, left top, left bottom, color-stop(0, #f2f2f2), color-stop(0.51, #f2f2f2) );
     background-attachment: fixed;
     font-family: 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
     font-size: 12px;
